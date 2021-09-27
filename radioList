@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "title": "ContrMix FM",
+    "url": "http://test.com/stream"
+    "image": ""
+  },
+  
+  {
+    "id": 1,
+    "title": "Alt FM",
+    "url": "http://test.com/stream"
+    "image": ""
+  },
+  
+  {
+    "id": 3,
+    "title": "Yss AM",
+    "url": "http://test.com/stream"
+    "image": ""
+  }
+]
